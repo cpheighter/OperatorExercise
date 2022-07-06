@@ -12,7 +12,7 @@ Console.WriteLine(Methods.Divide(a, b));
 int quotient = a / b;
 int remainder = a % b;
 
-Console.WriteLine($"17/4 is {quotient} reminder {remainder}");
+Console.WriteLine($"{a}/{b} is {quotient} reminder {remainder}");
 //------------------------------------------------
 // Exercise 2
 
